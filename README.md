@@ -6,8 +6,6 @@ Pure C++23 — zero runtime overhead.
 - Concepts for type safety
 - Static binary — Alpine compatible
 
-**The dragon reflects.**
-
 Compile:
 
 ```bash
