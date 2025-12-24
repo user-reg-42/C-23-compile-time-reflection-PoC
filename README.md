@@ -11,3 +11,7 @@ Compile:
 ```bash
 clang++ -std=c++23 -static main.cpp -o ourcc_poc
 ./ourcc_poc
+
+**License**
+
+MIT License — see LICENSE file.
